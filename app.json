@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "skia-test",
+    "slug": "skia-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "skia-test"
+}
